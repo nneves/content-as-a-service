@@ -1,6 +1,6 @@
 # Website content as a Service
 
-A simple website fetch content web service powered by [Express](http://expressjs.com) and [Hget](https://github.com/bevacqua/hget).
+A simple web service to fetch website content powered by [Express](http://expressjs.com) and [Hget](https://github.com/bevacqua/hget).
 
 ## Setup
 
