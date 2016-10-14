@@ -28,7 +28,7 @@ Here is the complete usage documentation, also accessible on `/usage.html`:
 ```
 # Get website content
 GET /?url=www.google.com
-# Return website content of the www.google.com homepage
+# Return content of the www.google.com homepage
 
 ```
 
