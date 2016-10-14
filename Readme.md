@@ -39,7 +39,7 @@ Create a `config/development.yaml` or a `config/production.yaml` to override any
 ```yml
 content:
   command: hget        # hget cli tool [not in use]
-  path: '/tmp/'        # where the screenshot files are stored
+  path: '/tmp/'        # where content files are stored [to-do]
 cache:
   lifetime: 60000      # one minute, set to 0 for no cache
 server:
