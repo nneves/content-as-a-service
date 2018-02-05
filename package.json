@@ -11,6 +11,10 @@
     "config": "0.4.15",
     "express": "3.x",
     "hget": "^3.0.1",
-    "request": "2.9.153"
+    "request": "2.9.153",
+    "textract": "^2.2.0"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }

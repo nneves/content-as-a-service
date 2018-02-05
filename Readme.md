@@ -8,6 +8,15 @@ A simple web service to fetch website content powered by [Express](http://expres
 $ npm install
 ```
 
+Optional: Install OS dependencies for Textract (PDF to Text parsing):
+https://www.npmjs.com/package/textract
+http://www.xpdfreader.com/download.html
+
+```
+// OS X
+$ brew install caskroom/cask/pdftotext
+```
+
 Run the app:
 
 ```
