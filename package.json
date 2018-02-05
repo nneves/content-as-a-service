@@ -8,9 +8,10 @@
   },
   "dependencies": {
     "cheerio": "^0.22.0",
-    "config": "0.4.15",
+    "config": "^1.29.4",
     "express": "3.x",
     "hget": "^3.0.1",
+    "js-yaml": "^3.10.0",
     "request": "2.9.153",
     "textract": "^2.2.0"
   },
